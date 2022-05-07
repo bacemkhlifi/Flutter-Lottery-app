@@ -19,6 +19,19 @@ samples, guidance on mobile development, and a full API reference.
 #layouts
 <p float="left">
   <img src="/assets/images/loginUI.png" width="100" />
-  <img src="/assets/images/signupUI" width="100" /> 
+  <img src="/assets/images/signupUI.png" width="100" /> 
   <img src="/assets/images/forgetUI.png" width="100" />
+  <img src="/assets/images/profileUI.png" width="100" />
+  <img src="/assets/images/menu.png" width="100" />
+  <img src="/assets/images/homeUI.png" width="100" /> 
+  
+</p>
+<p float="left">
+  <img src="/assets/images/roundUI.png" width="100" />
+  <img src="/assets/images/mytickets.png" width="100" /> 
+  <img src="/assets/images/payment1.png" width="100" />
+  <img src="/assets/images/payment2.png" width="100" />
+  <img src="/assets/images/paymentvalid.png" width="100" />
+  <img src="/assets/images/paymentfailed.png" width="100" /> 
+  
 </p>
