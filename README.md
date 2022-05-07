@@ -16,3 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <img src="/assets/images/logo.png" alt=""/>
+#layouts
+<p float="left">
+  <img src="/assets/images/loginUI.png" width="100" />
+  <img src="/assets/images/signupUI" width="100" /> 
+  <img src="/assets/images/forgetUI.png" width="100" />
+</p>
