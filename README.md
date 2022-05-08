@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
   <img src="/assets/images/loginUI.png" width="100" />
   <img src="/assets/images/signupUI.png" width="100" /> 
   <img src="/assets/images/forgetUI.png" width="100" />
-  <img src="/assets/images/profileUI.png" width="100" />
+  <img src="/assets/images/profile.png" width="100" />
   <img src="/assets/images/menu.png" width="100" />
   <img src="/assets/images/homeUI.png" width="100" /> 
   
